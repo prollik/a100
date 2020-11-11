@@ -1,0 +1,13 @@
+/*@font-face {*/
+    /*font-family: "AktivGroteskCorp";*/
+    /*src: url("../fonts/AktivGroteskCorp/AktivGroteskCorp-Regular.eot");*/
+    /*url("../fonts/AktivGroteskCorp/AktivGroteskCorp-Regular.ttf"); format("truetype");*/
+    /*font-style: normal;*/
+    /*font-weight: normal;*/
+/*}*/
+
+@font-face {
+font-family: AktivGroteskCorp;
+src: url(../fonts/AktivGroteskCorp/AktivGroteskCorpRegular.ttf)
+}
+
