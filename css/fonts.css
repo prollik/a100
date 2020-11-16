@@ -7,6 +7,25 @@
 /*}*/
 
 @font-face {
+    font-family: 'ProximaNovaRegular';
+    src: url('../fonts/ProximaNovaRegular/ProximaNova-Regular.eot');
+    src: url('../fonts/ProximaNovaRegular/ProximaNova-Regular.eot') format('embedded-opentype'),
+    url('../fonts/ProximaNovaRegular/ProximaNova-Regular.woff2') format('woff2'),
+    url('../fonts/ProximaNovaRegular/ProximaNova-Regular.woff') format('woff'),
+    url('../fonts/ProximaNovaRegular/ProximaNova-Regular.ttf') format('truetype');
+}
+
+
+@font-face {
+    font-family: 'ProximaNovaLight';
+    src: url('../fonts/ProximaNovaLight/ProximaNova-Light.eot');
+    src: url('../fonts/ProximaNovaLight/ProximaNova-Light.eot') format('embedded-opentype'),
+    url('../fonts/ProximaNovaLight/ProximaNova-Light.woff2') format('woff2'),
+    url('../fonts/ProximaNovaLight/ProximaNova-Light.woff') format('woff'),
+    url('../fonts/ProximaNovaLight/ProximaNova-Light.ttf') format('truetype');
+}
+
+@font-face {
 font-family: AktivGroteskCorp;
 src: url(../fonts/AktivGroteskCorp/AktivGroteskCorpRegular.ttf)
 }
