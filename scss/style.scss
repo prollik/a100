@@ -540,17 +540,15 @@ ul, li{
   }
 
   .contacts__item-dropdown{
-    transition: 1s;
+    transition: 0s;
     opacity: 0;
     position: absolute;
     z-index: -1;
   }
 
-//.checkbox:checked~.contacts__item{
-//  height: auto;
-//}
 
   .checkbox:checked~.contacts__item-dropdown{
+    transition: 1s;
     opacity: 1;
     position: inherit;
     z-index: 1;
@@ -901,7 +899,7 @@ ul, li{
       }
     }
 
-    @media (max-width: 869px) {
+    @media (max-width: 869px) {f
 
       menu {
         width: 100%;
